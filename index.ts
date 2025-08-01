@@ -1,0 +1,1 @@
+window.alert("Welcome to SuperSun, You job is to earn as many coins as possible and try to survive before you die.")
